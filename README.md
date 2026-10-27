@@ -1,4 +1,4 @@
-# qooxdoo Widget Browser Automation
+# qooxdoo Widget Browser Automation !
 
 This project uses Python and Playwright's synchronous API to open the qooxdoo
 Widget Browser. The original `widget.py` script is kept as a reference, and
